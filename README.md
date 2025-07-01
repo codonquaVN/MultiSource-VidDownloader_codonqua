@@ -1,6 +1,6 @@
-# GetVideo Codonqua
+# MultiSource-VidDownloader-codonquaVN
 
-**GetVideo Codonqua** là công cụ tải video/audio từ nhiều trang web khác nhau, hỗ trợ giao diện web hiện đại, quản lý người dùng, dựa trên yt-dlp.
+**MultiSource-VidDownloader** là công cụ tải video/audio từ nhiều trang web khác nhau, hỗ trợ giao diện web hiện đại, quản lý người dùng, dựa trên yt-dlp.
 
 ---
 
